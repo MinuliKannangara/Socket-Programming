@@ -95,8 +95,8 @@ java versionX_folder.Server
 ### Run the Client(s):
 java versionX_folder.Client
 ```
-# or for version5 and version6:
 ```bash
+### or for version5 and version6:
 java versionX_folder.Client2
 ```
 Replace versionX_folder with the specific version folder, e.g., version4_send_messages_from_server.
